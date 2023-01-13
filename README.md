@@ -4,7 +4,7 @@ This repository contains a collection of machine learning code examples for vari
 ## Getting Started
 Clone the repository to your local machine using the following command:
 
-`git clone https://github.com/<username>/machine-learning-code-examples.git`
+`git clone https://github.com/mounirouadi/Machine-Learning-Examples.git`
 
 ## Folders
 
