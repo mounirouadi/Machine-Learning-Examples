@@ -27,13 +27,13 @@ The code examples in this repository are written in Python, and make use of the 
 
 ## Running the Code
 
-Each code file can be run independently, you can run the code by navigating to the folder and running the file using python filename.py
+Each code file can be run independently, you can run the code by navigating to the folder and running the file using `python filename.py`
 
 ## Note
 
 All the codes are well commented for easy understanding and following.
 
 ## Author
-OUADI Mounir - mounirouadi
+OUADI Mounir - [@mounirouadi](https://github.com/mounirouadi/)
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
